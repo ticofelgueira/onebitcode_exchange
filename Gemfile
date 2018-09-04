@@ -22,6 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'rest-client'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
